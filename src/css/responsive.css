@@ -1,0 +1,23 @@
+@media(max-width:900px) {
+    .container {
+            /* background-color: red; */
+        max-width: 280px;
+        height: 450px;
+        margin-top: 55px;
+        font-size: 11px;
+    }
+
+    .imagem-qrcode img {
+        height: 270px;
+        width: 250px;
+    }
+
+    .texto-principal h1 {
+        font-size: 19px;
+    }
+
+    .texto-secundario p {
+        font-size: 14px;
+    }
+
+}
